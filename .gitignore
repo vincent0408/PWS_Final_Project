@@ -1,4 +1,5 @@
-test.py
 .vs/
 Data_Analysis.py
+Data_Analysis_Template.ipynb
 .ipynb_checkpoints/
+__pycache__/
