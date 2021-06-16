@@ -1,16 +1,16 @@
 # PWS_Final_Project
 
-PWS 109-2´Á¥½±M®×
-|ÀÉ®×¦WºÙ|¥Î³~ |
+PWS 109-2æœŸæœ«å°ˆæ¡ˆ
+|æª”æ¡ˆåç¨±|ç”¨é€” |
 | ------ | ------ |
-| processing_total.ipynb| »P¥ş¯Z¬ÛÃöªº¸ê®Æ¤ÀªR|
-| processing_personal.ipynb| »P­Ó¤H¬ÛÃöªº¸ê®Æ¤ÀªR|
-| processing_visualization.ipynb| ¤ÀªR¨ÃµøÄ±¤Æ¸ê®Æ³B²zµ²ªG|
-| processing_total.py | ±Nprocessing_total.ipynbÂà¦¨Python¼Ò²Õ¨Ñdata_total_XXX.py¨Ï¥Î |
-| processing_personal.py | ±Nprocessing_personal.ipynbÂà¦¨Python¼Ò²Õ¨Ñdata_personal_XXX.py¨Ï¥Î |
-| crawler.py| ª¦¤UccClub Judge¤¤ PWS Homework 1~6ªº¸ê®Æ|
-| data_total_XXX.py | ±N¸ê®Æ¤ÀªR¤¤¡A¥ş¯Z¦@¦P¬ÛÃöªº¸ê®Æ¡A¼g¤J¸ê®Æ®w |
-| data_personal_XXX.py | ±N¸ê®Æ¤ÀªR¤¤¡A¨Ï¥ÎªÌ±MÄİ¬ÛÃöªº¸ê®Æ¡A¼g¤J¸ê®Æ®w  |
-| db_XXX.py | ¨ä¥L»Pª¦ÂÎ¸ê®ÆµLÃöªº¸ê®Æ®w¡A¦p±K½X¡Bª¦ÂÎ¸ê®Æ§e²{¡B¨Ï¥ÎªÌ§@·~±o¤Àµ¥µ¥ |
-| json/serviceAccountKey_XXX.json | ¦h­ÓFirebase Realtime DatabaseªºÅçÃÒª÷Æ_ |
-| mail_sender.py | ±H«H¾÷¾¹¤H |
+| processing_total.ipynb| èˆ‡å…¨ç­ç›¸é—œçš„è³‡æ–™åˆ†æ|
+| processing_personal.ipynb| èˆ‡å€‹äººç›¸é—œçš„è³‡æ–™åˆ†æ|
+| processing_visualization.ipynb| åˆ†æä¸¦è¦–è¦ºåŒ–è³‡æ–™è™•ç†çµæœ|
+| processing_total.py | å°‡processing_total.ipynbè½‰æˆPythonæ¨¡çµ„ä¾›data_total_XXX.pyä½¿ç”¨ |
+| processing_personal.py | å°‡processing_personal.ipynbè½‰æˆPythonæ¨¡çµ„ä¾›data_personal_XXX.pyä½¿ç”¨ |
+| crawler.py| çˆ¬ä¸‹ccClub Judgeä¸­ PWS Homework 1~6çš„è³‡æ–™|
+| data_total_XXX.py | å°‡è³‡æ–™åˆ†æä¸­ï¼Œå…¨ç­å…±åŒç›¸é—œçš„è³‡æ–™ï¼Œå¯«å…¥è³‡æ–™åº« |
+| data_personal_XXX.py | å°‡è³‡æ–™åˆ†æä¸­ï¼Œä½¿ç”¨è€…å°ˆå±¬ç›¸é—œçš„è³‡æ–™ï¼Œå¯«å…¥è³‡æ–™åº«  |
+| db_XXX.py | å…¶ä»–èˆ‡çˆ¬èŸ²è³‡æ–™ç„¡é—œçš„è³‡æ–™åº«ï¼Œå¦‚å¯†ç¢¼ã€çˆ¬èŸ²è³‡æ–™å‘ˆç¾ã€ä½¿ç”¨è€…ä½œæ¥­å¾—åˆ†ç­‰ç­‰ |
+| json/serviceAccountKey_XXX.json | å¤šå€‹Firebase Realtime Databaseçš„é©—è­‰é‡‘é‘°ï¼Œç…§ç†ä¾†èªªç‚ºè³‡å®‰ä¸èƒ½ä¸Šå‚³ï¼Œä½†è€ƒæ…®åˆ°æ­¤å°ˆæ¡ˆå­¸ç¿’æ€§è³ªä»ç„¶ä¸Šå‚³ï¼Œè‹¥æœ‰å®‰å…¨ç–‘æ…®å°‡æœƒæ’¤ä¸‹|
+| mail_sender.py | å¯„ä¿¡æ©Ÿå™¨äºº |
