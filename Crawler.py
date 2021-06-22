@@ -24,13 +24,13 @@ chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 driver = webdriver.Chrome(ChromeDriverManager(print_first_line=False).install(), options=chrome_options)
 
 # Change personal info to your own judge.ccClub.io account
-username = 'b06703012'
-password = 'amber0528'
+username = ''
+password = ''
 
 url = 'https://judge.ccclub.io/contest'
 
 # Modify save file location to sth like 'C:/Users/jiaojiaozhe/Desktop/'
-SAVE_FILE_PATH = 'C:/Users/Vincent/Desktop/'
+SAVE_FILE_PATH = ''
 
 # List of contest names to crawl
 hw = ['PWS Homework 6', 'PWS Homework 5']
