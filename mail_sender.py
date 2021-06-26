@@ -24,8 +24,8 @@ def getEmail(student):
     subject = '[PWS Final Project] 誰是佼佼者!!!'
     contents = """
 {} 您好，\n
-我們是第幾組，本次期末專案我們利用Python對ccClube Judge進行分析，
-\n將每次作業繳交狀況進行分析後，歡迎大家透過我們的網站查看你/妳這學期的表現！
+我們是誰是佼佼者團隊，本次期末專案我們利用Python對ccClube Judge進行分析，
+\n歡迎大家透過我們的網站查看你/妳這學期的表現！
 \n在這個班上，誰是佼佼者? 快點擊下方連結看看是不是你吧！
     
 網站連結： {}
